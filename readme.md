@@ -1,25 +1,22 @@
-== David Brandon ==
+# David Brandon
 
-Contributors: David Brandon
-Requires at least: 7.1
-Tested up to: 7.1
-Requires PHP: 5.7
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* **Contributors:** David Brandon
+* **Requires at least:** 7.1
+* **Tested up to:** 7.1
+* **Requires PHP:** 5.7
+* **License:** GPLv2 or later
+* **License URI:** [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
+## Description
 
-== Description ==
+My portfolio site featuring contact information, and examples of my work.
 
-My portoflio site featuring contact information, and examples of my work.
+## Changelog
 
-
-== Changelog ==
-
-= 1.0.0 =
+### 1.0.0
 * Initial release
 
-
-== Copyright ==
+## Copyright
 
 David Brandon WordPress Theme, (C) 2026 David Brandon
 David Brandon is distributed under the terms of the GNU GPL.
@@ -33,4 +30,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
