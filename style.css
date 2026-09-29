@@ -805,7 +805,6 @@ background-size: 24px 24px;
 
 	.hero-grid {
 		grid-template-columns: 1fr;
-		min-height: 150dvh;
 		padding: 7rem 1.5rem 5rem;
 		text-align: center;
 		gap: 2rem;
@@ -857,8 +856,17 @@ background-size: 24px 24px;
 		margin: 3rem 0 0;
 	}
 
-	.project-grid>.wp-block-column+.wp-block-column {
-		margin-top: 3rem;
+	.project-grid {
+		display: block;
+		margin-block-start: 0 !important;
+	}
+	
+	  .project-grid > .wp-block-column + .wp-block-column {
+		margin-top: 2rem;
+	}
+	
+	  .project-grid + .project-grid {
+		margin-top: 2rem !important;
 	}
 
 	.contact-heading {
