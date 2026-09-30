@@ -48,6 +48,10 @@ Text Domain: david-brandon
 	gap: 0.5rem;
 }
 
+.site-header .wp-block-navigation__responsive-container.is-menu-open a {
+    font-size: 1rem;
+}
+
 .site-navigation a {
 	color: inherit;
 	font-family: "Fira Code", monospace;
@@ -402,6 +406,11 @@ Text Domain: david-brandon
 .work-section {
 	padding-top: 1rem;
 	background: #fff;
+}
+
+figure.wp-block-image.size-full.project-image {
+    border: 6px solid;
+    border-radius: 12px;
 }
 
 .section-heading-row {
