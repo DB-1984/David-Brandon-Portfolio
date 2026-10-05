@@ -1,0 +1,41 @@
+# Node dependencies
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Build/cache files
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+
+# WordPress generated / local files
+wp-config.php
+.htaccess
+
+# Optional build output
+# Uncomment if your build folder is generated during deployment
+# build/
+# dist/
