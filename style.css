@@ -636,11 +636,6 @@ background-size: 24px 24px;
     max-height: 500px;
 }
 
-.standard-page-content {
-	padding:
-	clamp(2rem, 1vw, 7rem) clamp(3rem, 3.5vw, 7rem)
-}
-
 .standard-page-content>* {
 	max-width: 760px;
 }
